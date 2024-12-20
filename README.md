@@ -1,3 +1,5 @@
+![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)
+
 # HR Analytics Dashboard Using Power BI
 
 This repository contains a comprehensive and interactive HR Analytics Dashboard built using Power BI, inspired by the tutorial "HR Analytics Dashboard with Power BI" from [YouTube](https://www.youtube.com/watch?v=snzq7Ev6HDI). This dashboard is designed to help HR professionals and decision-makers gain in-depth insights into their workforce, making it a valuable tool for data-driven human resource management.
